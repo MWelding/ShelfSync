@@ -1,5 +1,4 @@
 # ShelfSync
-Research and record ideas, observations and insights relevant to intentions, reflecting critically on work and progress. Minimum 500 words.....
 
 Over 1/3rd of all food produced globally is wanted or thrown out before they perish. This leads to multiple worldwide crises including world hunger and food waste. With this idea, we present a start to the solution.
 
