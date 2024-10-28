@@ -3,7 +3,7 @@ Research and record ideas, observations and insights relevant to intentions, ref
 
 Over 1/3rd of all food produced globally is wanted or thrown out before they perish. This leads to multiple worldwide crises including world hunger and food waste. With this idea, we present a start to the solution.
 
-Brainstorming:
+<h2>Brainstorming:</h2
 
 Instead of making a project that was only hardware or only software, we wanted to make an amalgamation of electronics and software. We looked at real-world crises, hoping to make a new solution to an existing and relevant issue. We approached this in a Problem Definition and Elimination manner. First, we defined the things we didn’t want to do, and found common ground in the solutions unmentioned. Then, by combining facets of each of our propositions we came up with ShelfSync.
 
@@ -15,7 +15,7 @@ By utilizing two sensor systems (scale and barcode scanner) and user input for e
 To make this process easier, we thought of starting with a select few items 
 (milk and sour cream) that most people have at home. After perfecting the system for these products, we’ll expand our reach.
 
-The steps:
+<h2>The steps:</h2>
 User buys item
 While stocking the fridge, user inputs item expiry date into UI
 The as user is placing it in the fridge, the item’s barcode is scanned by the scanner on the fridge. This will give us key information about the product including its weight and components.
@@ -24,5 +24,8 @@ This enables us to know everytime the product has been removed and what quantity
 Next time the user wants to remove the item, they can be informed of its location using the weight sensor data
 If the item has been in the fridge for longer than its expiry date suggest and still has weight other than the carton, the user will be notified that that product is expired
 
-With ShelfSync we present a beginning. A beginning to a solution that can better thousands of people’s lives by promoting sustainability, reducing food waste and making people more aware of exactly what lies on their shelves. ShelfSync can be used in so many sectors of science and humanities, and we’re excited to tap into its exponential possibilities.
+---
+
+🌱 **With ShelfSync, we present a beginning** 🌱  
+A beginning to a solution that can better thousands of people’s lives by promoting sustainability, reducing food waste, and making people more aware of exactly what lies on their shelves. ShelfSync can be used in so many sectors of science and humanities, and we’re excited to tap into its exponential possibilities. 🌍
 
