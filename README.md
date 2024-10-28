@@ -1,4 +1,4 @@
-# ShelfSync (V1)
+# ShelfSync 
 
 Over 1/3rd of all food produced globally is wanted or thrown out before they perish. This leads to multiple worldwide crises including world hunger and food waste. With this idea, we present a start to the solution.
 
