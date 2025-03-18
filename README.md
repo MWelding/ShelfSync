@@ -18,12 +18,6 @@ Kristiana - Out of commision, has 40 minutes on Thurs, will help Bheeni with fro
 Matiss - Prepare hardware for initial testing. 3D print components and screw together test bed. Upload script to ESP32, esnure python program works as expected and is injecting data properly. 
 
 
-
-
-
-
-Over 1/3rd of all food produced globally is wanted or thrown out before they perish. This leads to multiple worldwide crises including world hunger and food waste. With this idea, we present a start to the solution.
-
 <h2>Brainstorming:</h2
 
 Instead of making a project that was only hardware or only software, we wanted to make an amalgamation of electronics and software. We looked at real-world crises, hoping to make a new solution to an existing and relevant issue. We approached this in a Problem Definition and Elimination manner. First, we defined the things we didn’t want to do, and found common ground in the solutions unmentioned. Then, by combining facets of each of our propositions we came up with ShelfSync.
