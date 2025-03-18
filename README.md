@@ -1,5 +1,24 @@
 # ShelfSync 
 
+| Name           | Progress Done  | Percentage of expected |
+|----------------|----------------|------------------------|
+| Matiss        | Finished the scripting for load cells. Reads the serial connection from the esp32 into a python program which uploads data to the DB once a large enough change (offset adjusted) is measured.          |65% (hardware only remaining)|
+| Kristiana        | Figuring out the method for getting the website code            | 10% |
+| Bheeni        | Figured out design of the dash (in her head)            | 40% |
+| Nicolas         | Re-made the strucutre of the connection between the front-end and back-end. Started adaptation of front-end (format change)        | 40% |
+
+GOALS for March 18-25
+
+Nikolas - Adapt sent-in front-end to the back-end. Begin DB creation for product-pipeline (auth already complete)
+Bheeni - Finish the design and export the code for the homepage, product addition pipeline and user settings
+Kristiana - Out of commision, has 40 minutes on Thurs, will help Bheeni with front-end
+Matiss - Prepare hardware for initial testing. 3D print components and screw together test bed. Upload script to ESP32, esnure python program works as expected and is injecting data properly. 
+
+
+
+
+
+
 Over 1/3rd of all food produced globally is wanted or thrown out before they perish. This leads to multiple worldwide crises including world hunger and food waste. With this idea, we present a start to the solution.
 
 <h2>Brainstorming:</h2
