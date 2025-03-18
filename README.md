@@ -1,5 +1,8 @@
 # ShelfSync 
 
+
+## Progress update
+
 | Name           | Progress Done  | Percentage of expected |
 |----------------|----------------|------------------------|
 | Matiss        | Finished the scripting for load cells. Reads the serial connection from the esp32 into a python program which uploads data to the DB once a large enough change (offset adjusted) is measured.          |65% (hardware only remaining)|
@@ -7,7 +10,7 @@
 | Bheeni        | Figured out design of the dash (in her head)            | 40% |
 | Nicolas         | Re-made the strucutre of the connection between the front-end and back-end. Started adaptation of front-end (format change)        | 40% |
 
-GOALS for March 18-25
+#### Plans for next week:
 
 Nikolas - Adapt sent-in front-end to the back-end. Begin DB creation for product-pipeline (auth already complete)
 Bheeni - Finish the design and export the code for the homepage, product addition pipeline and user settings
