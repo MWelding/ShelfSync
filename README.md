@@ -5,17 +5,17 @@
 
 | Name           | Progress Done  | Percentage of expected |
 |----------------|----------------|------------------------|
-| Matiss        | Finished the scripting for load cells. Reads the serial connection from the esp32 into a python program which uploads data to the DB once a large enough change (offset adjusted) is measured.          |65% (hardware only remaining)|
+| Matiss        | Concluded hardware creation. Worked with Nicolas to ensure that everyone has access to the backend. Starting testing process creation |85% (hardware only remaining)|
 | Kristiana        | Done nothing. Been on standby to help Bheeni. She hasn't needed any help (just some small insignificant things)            | 100% of none|
 | Bheeni        | Fixed HTML pages for all sections except for the settings page. | 90% |
-| Nicolas         | N/A Away for Norway Trip      | 40% |
+| Nicolas         | N/A Away for Norway Trip      | N/A |
 
 #### Plans for next week:
 
-Nikolas - Adapt sent-in front-end to the back-end. Begin DB creation for product-pipeline (auth already complete)
+Nikolas - N/A
 Bheeni - Finish settings and landing page
 Kristiana - I don't have a lot time. Unsure of what I am supposed to be doing. Will work with Bheeni 50/50
-Matiss - Prepare hardware for initial testi ng. 3D print components and screw together test bed. Upload script to ESP32, esnure python program works as expected and is injecting data properly. 
+Matiss - Work with Nicolas to merge frontend with the backend in an aim to ensure that 
 
 
 <h2>Brainstorming:</h2
