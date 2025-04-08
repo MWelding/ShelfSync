@@ -5,17 +5,17 @@
 
 | Name           | Progress Done  | Percentage of expected |
 |----------------|----------------|------------------------|
-| Matiss        | Concluded hardware creation. Worked with Nicolas to ensure that everyone has access to the backend. Starting testing process creation |85% (hardware only remaining)|
-| Kristiana        | Done nothing. Been on standby to help Bheeni. She hasn't needed any help (just some small insignificant things)            | 100% of none|
-| Bheeni        | Fixed HTML pages for all sections except for the settings page. | 90% |
-| Nicolas         | N/A Away for Norway Trip      | N/A |
+| Matiss        | Working closely with Nicolas and Bheeni to be able to start combining the two systems. Assisting Bheeni in splitting the master HTML | 90% |
+| Kristiana        | Working on poster to present on May 8th | 100% of none|
+| Bheeni        | Splitting the main HTML. | 80%|
+| Nicolas         | Change to the correct front end. Integrate dahsboard API Calls. Make buttons work (realizing the product addition pipeline)| 50% |
 
 #### Plans for next week:
 
-Nikolas - N/A
-Bheeni - Finish settings and landing page
-Kristiana - I don't have a lot time. Unsure of what I am supposed to be doing. Will work with Bheeni 50/50
-Matiss - Work with Nicolas to merge frontend with the backend in an aim to ensure that 
+Nikolas - Finish the project to be ready for testing
+Bheeni - Work with Nikolas on the merge
+Kristiana - Will try working on the landing page. Mom isn't home, so workload may be reduced. No clue on how the landing page works - will try to figure thigs out.
+Matiss - Work with Nicolas to merge frontend with the backend in an aim to ensure that it works together well.
 
 
 <h2>Brainstorming:</h2
