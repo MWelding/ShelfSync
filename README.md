@@ -5,17 +5,17 @@
 
 | Name           | Progress Done  | Percentage of expected |
 |----------------|----------------|------------------------|
-| Matiss        | Working closely with Nicolas and Bheeni to be able to start combining the two systems. Assisting Bheeni in splitting the master HTML | 90% |
-| Kristiana        | Working on poster to present on May 8th | 100% of none|
-| Bheeni        | Splitting the main HTML. | 80%|
-| Nicolas         | Change to the correct front end. Integrate dahsboard API Calls. Make buttons work (realizing the product addition pipeline)| 50% |
+| Matiss        | Coordinated the sucess of Nicolas working on the back-end by providing insigts and help when needed regarding the front-end | 90% |
+| Kristiana        | I have done nothing | )%|
+| Bheeni        | ABSENT | N/A|
+| Nicolas         |Middleware, error-handler, validator, database structure, adaptive style for phones| 100% |
 
 #### Plans for next week:
 
-Nikolas - Finish the project to be ready for testing
-Bheeni - Work with Nikolas on the merge
-Kristiana - Will try working on the landing page. Mom isn't home, so workload may be reduced. No clue on how the landing page works - will try to figure thigs out.
-Matiss - Work with Nicolas to merge frontend with the backend in an aim to ensure that it works together well.
+Nikolas - Fix errors, try to use hardware
+Bheeni - ABSENT 
+Kristiana - Hopefully figure out what we will be presenting in the showcase
+Matiss - Ensure the sucess of presenting during May 8th
 
 
 <h2>Brainstorming:</h2
